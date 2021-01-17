@@ -22,7 +22,7 @@
 
     <dependencies>
         <dependency>
-            <groupId>corm.unisoft.core</groupId>
+            <groupId>com.unisoft.core</groupId>
             <artifactId>unisoft-core-http</artifactId>
             <version>${project.version}</version>
         </dependency>
