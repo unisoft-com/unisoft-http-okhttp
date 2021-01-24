@@ -6,7 +6,7 @@
 
     <groupId>com.unisoft.http</groupId>
     <artifactId>unisoft-http-okhttp</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>1.0.0-RELEASE</version>
 
     <properties>
         <java.version>11</java.version>
